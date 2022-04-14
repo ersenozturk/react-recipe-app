@@ -1,0 +1,17 @@
+.main{
+    width: 60%;
+    margin: auto;
+    color: orange;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+.image{
+    width: 100%;
+}
+.anchor{
+    color:orange;
+    text-decoration: none;
+}
+.anchor:hover{
+    color: black;
+}
